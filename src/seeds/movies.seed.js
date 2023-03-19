@@ -43,7 +43,7 @@ const movies = [
   ];
 
 
-  mongoose.connect("mongodb+srv://root:root@cluster0.8xyzchf.mongodb.net/?retryWrites=true&w=majority", {
+  mongoose.connect("", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })

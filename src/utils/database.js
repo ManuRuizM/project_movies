@@ -2,7 +2,7 @@ const mongoose = require('mongoose');   //requerimos mongoose
 
 //nuestra url a mongoDB
 // const DB_URL = "mongodb://localhost:27017/pepito";
-const DB_URL = "mongodb+srv://root:root@cluster0.8xyzchf.mongodb.net/?retryWrites=true&w=majority";
+const DB_URL = "";
 // mongodb+srv://root:AQUI MI PASSWORD@cluster0.7wqqxkh.mongodb.net/AQUI NOMBRE BBDD?retryWrites=true&w=majority
 const connect = async () => {
 
